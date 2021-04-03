@@ -1,0 +1,57 @@
+/* 
+
+Database is a collection of interrelated data, logically coherent
+
+DBMS contains information about a particular enterprise
+
+Schema- The logical structure of the database
+
+Example: The database consists of information about a set of customers and accounts 
+the relationship between them
+
+Physical schema: database design at the Physical level
+
+Logical schema: database design at the logical level
+
+Instance - The actual content of the database at a particular point in timestamp
+
+Physical data independence - the ability to modify the physical schema without 
+changing the logical schema
+
+Logical data independence - the ability to modify the logical schema without changing
+the application
+
+Data Models
+    - A colleection of tools for describing
+        Data
+        Data relationships
+        Data semantics
+        Data constraints
+        
+Relational Model
+    - Columns (attributes)
+    - Rows (Tuples)
+
+Primary Key - Unique identifier
+Foreign key - Unique identifier 
+
+Data Manipulation Language (DML)
+
+Two classes of languages
+    -Procedural - user specific what data is required and how 
+    to get those data
+    
+    - Declarative (nonprocedural) - user specifies what data is 
+    required without specifying how to get those data.
+    
+Entity Relational Model
+
+Entity: a 'thing' or 'object' in the domain that is distinguishable
+from other object. Described by a set of attributes
+
+relationship: an association among several entities
+
+Database Engine         
+
+
+
