@@ -46,12 +46,13 @@ Two classes of languages
     
 Entity Relational Model
 
+
 Entity: a 'thing' or 'object' in the domain that is distinguishable
 from other object. Described by a set of attributes
 
 relationship: an association among several entities
 
-Database Engine         
+
 
 
 
